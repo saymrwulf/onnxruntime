@@ -3,3 +3,4 @@
 2014-01-03T08:37:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (onnxruntime)
 2014-01-03T05:27:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (onnxruntime)
 2014-01-15T07:10:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (onnxruntime)
+2014-02-03T02:30:00 - Implementing approach from a new paper read last night (onnxruntime)
