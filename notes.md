@@ -6,3 +6,4 @@
 2014-02-03T02:30:00 - Implementing approach from a new paper read last night (onnxruntime)
 2014-02-26T08:47:00 - Late-night bugfix on financial RL environment (onnxruntime)
 2014-03-13T03:47:00 - Implementing approach from a new paper read last night (onnxruntime)
+2014-03-13T00:23:00 - Refactor for clarity, might break a few tests though (onnxruntime)
