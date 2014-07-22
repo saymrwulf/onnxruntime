@@ -19,3 +19,4 @@
 2014-07-11T22:08:00 - Late-night bugfix on financial RL environment (onnxruntime)
 2014-07-22T21:53:00 - Late-night bugfix on financial RL environment (onnxruntime)
 2014-07-22T22:21:00 - Late-night bugfix on financial RL environment (onnxruntime)
+2014-07-22T02:59:00 - Refactor for clarity, might break a few tests though (onnxruntime)
