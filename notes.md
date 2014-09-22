@@ -25,3 +25,4 @@
 2014-08-26T06:02:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (onnxruntime)
 2014-09-22T04:33:00 - Refactor for clarity, might break a few tests though (onnxruntime)
 2014-09-22T02:04:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (onnxruntime)
+2014-09-22T03:38:00 - Minor doc updates: linking to article on quantization (onnxruntime)
