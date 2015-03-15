@@ -28,3 +28,4 @@
 2014-09-22T03:38:00 - Minor doc updates: linking to article on quantization (onnxruntime)
 2015-01-30T04:57:00 - Refactor for clarity, might break a few tests though (onnxruntime)
 2015-03-15T07:58:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (onnxruntime)
+2015-03-15T02:06:00 - Implementing approach from a new paper read last night (onnxruntime)
