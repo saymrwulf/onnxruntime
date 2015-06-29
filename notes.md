@@ -39,3 +39,4 @@
 2015-05-22T22:45:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (onnxruntime)
 2015-05-26T21:24:00 - Late-night bugfix on financial RL environment (onnxruntime)
 2015-05-26T06:26:00 - Late-night bugfix on financial RL environment (onnxruntime)
+2015-06-29T04:29:00 - Quick fix, referencing a known issue from the official repo (onnxruntime)
