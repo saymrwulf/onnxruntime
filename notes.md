@@ -42,3 +42,4 @@
 2015-06-29T04:29:00 - Quick fix, referencing a known issue from the official repo (onnxruntime)
 2015-07-07T20:04:00 - Quick fix, referencing a known issue from the official repo (onnxruntime)
 2015-10-09T06:22:00 - Minor doc updates: linking to article on quantization (onnxruntime)
+2015-10-09T07:41:00 - Minor doc updates: linking to article on quantization (onnxruntime)
