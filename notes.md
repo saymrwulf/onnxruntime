@@ -47,3 +47,4 @@
 2015-10-09T07:30:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (onnxruntime)
 2015-10-10T05:17:00 - Quick fix, referencing a known issue from the official repo (onnxruntime)
 2015-10-10T08:58:00 - Late-night bugfix on financial RL environment (onnxruntime)
+2015-10-10T05:56:00 - Implementing approach from a new paper read last night (onnxruntime)
