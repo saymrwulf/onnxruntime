@@ -51,3 +51,4 @@
 2015-10-10T17:18:00 - Refactor for clarity, might break a few tests though (onnxruntime)
 2015-10-23T20:20:00 - Refactor for clarity, might break a few tests though (onnxruntime)
 2015-10-23T05:14:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (onnxruntime)
+2015-10-23T06:48:00 - Quick fix, referencing a known issue from the official repo (onnxruntime)
