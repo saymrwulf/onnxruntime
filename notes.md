@@ -53,3 +53,4 @@
 2015-10-23T05:14:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (onnxruntime)
 2015-10-23T06:48:00 - Quick fix, referencing a known issue from the official repo (onnxruntime)
 2015-11-05T04:18:00 - Implementing approach from a new paper read last night (onnxruntime)
+2015-11-05T05:15:00 - Quick fix, referencing a known issue from the official repo (onnxruntime)
