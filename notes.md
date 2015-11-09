@@ -56,3 +56,4 @@
 2015-11-05T05:15:00 - Quick fix, referencing a known issue from the official repo (onnxruntime)
 2015-11-05T22:13:00 - Quick fix, referencing a known issue from the official repo (onnxruntime)
 2015-11-09T17:39:00 - Refactor for clarity, might break a few tests though (onnxruntime)
+2015-11-09T07:34:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (onnxruntime)
