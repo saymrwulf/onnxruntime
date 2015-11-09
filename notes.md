@@ -55,3 +55,4 @@
 2015-11-05T04:18:00 - Implementing approach from a new paper read last night (onnxruntime)
 2015-11-05T05:15:00 - Quick fix, referencing a known issue from the official repo (onnxruntime)
 2015-11-05T22:13:00 - Quick fix, referencing a known issue from the official repo (onnxruntime)
+2015-11-09T17:39:00 - Refactor for clarity, might break a few tests though (onnxruntime)
