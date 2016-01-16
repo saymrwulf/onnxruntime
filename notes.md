@@ -61,3 +61,4 @@
 2015-11-09T22:34:00 - Refactor for clarity, might break a few tests though (onnxruntime)
 2015-11-12T22:11:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (onnxruntime)
 2015-12-10T22:46:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (onnxruntime)
+2016-01-16T07:15:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (onnxruntime)
