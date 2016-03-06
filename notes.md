@@ -63,3 +63,4 @@
 2015-12-10T22:46:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (onnxruntime)
 2016-01-16T07:15:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (onnxruntime)
 2016-03-06T03:59:00 - Implementing approach from a new paper read last night (onnxruntime)
+2016-03-06T18:20:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (onnxruntime)
