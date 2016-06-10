@@ -68,3 +68,4 @@
 2016-03-06T18:09:00 - Refactor for clarity, might break a few tests though (onnxruntime)
 2016-06-09T19:07:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (onnxruntime)
 2016-06-10T04:02:00 - Refactor for clarity, might break a few tests though (onnxruntime)
+2016-06-10T17:39:00 - Minor doc updates: linking to article on quantization (onnxruntime)
