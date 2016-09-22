@@ -71,3 +71,4 @@
 2016-06-10T17:39:00 - Minor doc updates: linking to article on quantization (onnxruntime)
 2016-06-14T01:17:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (onnxruntime)
 2016-09-06T01:11:00 - Quick fix, referencing a known issue from the official repo (onnxruntime)
+2016-09-22T06:56:00 - Quick fix, referencing a known issue from the official repo (onnxruntime)
