@@ -77,3 +77,4 @@
 2016-12-12T02:25:00 - Late-night bugfix on financial RL environment (onnxruntime)
 2016-12-12T22:14:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (onnxruntime)
 2016-12-12T22:11:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (onnxruntime)
+2016-12-12T17:01:00 - Minor doc updates: linking to article on quantization (onnxruntime)
