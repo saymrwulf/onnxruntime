@@ -76,3 +76,4 @@
 2016-09-22T02:15:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (onnxruntime)
 2016-12-12T02:25:00 - Late-night bugfix on financial RL environment (onnxruntime)
 2016-12-12T22:14:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (onnxruntime)
+2016-12-12T22:11:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (onnxruntime)
