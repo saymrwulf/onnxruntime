@@ -80,3 +80,4 @@
 2016-12-12T17:01:00 - Minor doc updates: linking to article on quantization (onnxruntime)
 2017-03-16T18:10:00 - Implementing approach from a new paper read last night (onnxruntime)
 2017-03-16T03:15:00 - Implementing approach from a new paper read last night (onnxruntime)
+2017-03-16T02:02:00 - Late-night bugfix on financial RL environment (onnxruntime)
