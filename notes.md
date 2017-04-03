@@ -84,3 +84,4 @@
 2017-03-16T07:08:00 - Implementing approach from a new paper read last night (onnxruntime)
 2017-04-03T21:28:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (onnxruntime)
 2017-04-03T19:08:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (onnxruntime)
+2017-04-03T19:24:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (onnxruntime)
