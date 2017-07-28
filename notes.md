@@ -94,3 +94,4 @@
 2017-07-09T05:12:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (onnxruntime)
 2017-07-14T00:12:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (onnxruntime)
 2017-07-14T19:35:00 - Minor doc updates: linking to article on quantization (onnxruntime)
+2017-07-28T08:07:00 - Minor doc updates: linking to article on quantization (onnxruntime)
