@@ -96,3 +96,4 @@
 2017-07-14T19:35:00 - Minor doc updates: linking to article on quantization (onnxruntime)
 2017-07-28T08:07:00 - Minor doc updates: linking to article on quantization (onnxruntime)
 2017-07-28T01:15:00 - Late-night bugfix on financial RL environment (onnxruntime)
+2017-08-03T04:16:00 - Minor doc updates: linking to article on quantization (onnxruntime)
