@@ -100,3 +100,4 @@
 2017-08-03T23:48:00 - Implementing approach from a new paper read last night (onnxruntime)
 2017-10-31T01:53:00 - Refactor for clarity, might break a few tests though (onnxruntime)
 2017-11-13T08:38:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (onnxruntime)
+2017-11-13T03:54:00 - Refactor for clarity, might break a few tests though (onnxruntime)
