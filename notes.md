@@ -102,3 +102,4 @@
 2017-11-13T08:38:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (onnxruntime)
 2017-11-13T03:54:00 - Refactor for clarity, might break a few tests though (onnxruntime)
 2017-11-13T01:44:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (onnxruntime)
+2017-12-09T22:21:00 - Late-night bugfix on financial RL environment (onnxruntime)
