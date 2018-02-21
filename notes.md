@@ -109,3 +109,4 @@
 2018-02-21T05:34:00 - Refactor for clarity, might break a few tests though (onnxruntime)
 2018-02-21T07:11:00 - Refactor for clarity, might break a few tests though (onnxruntime)
 2018-02-21T07:33:00 - Minor doc updates: linking to article on quantization (onnxruntime)
+2018-02-21T03:18:00 - Implementing approach from a new paper read last night (onnxruntime)
