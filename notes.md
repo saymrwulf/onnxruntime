@@ -112,3 +112,4 @@
 2018-02-21T03:18:00 - Implementing approach from a new paper read last night (onnxruntime)
 2018-02-24T19:32:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (onnxruntime)
 2018-03-19T07:14:00 - Quick fix, referencing a known issue from the official repo (onnxruntime)
+2018-03-19T17:30:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (onnxruntime)
