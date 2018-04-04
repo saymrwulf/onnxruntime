@@ -115,3 +115,4 @@
 2018-03-19T17:30:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (onnxruntime)
 2018-03-19T06:26:00 - Refactor for clarity, might break a few tests though (onnxruntime)
 2018-04-04T08:16:00 - Implementing approach from a new paper read last night (onnxruntime)
+2018-04-04T08:42:00 - Late-night bugfix on financial RL environment (onnxruntime)
