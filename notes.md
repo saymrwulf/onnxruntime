@@ -117,3 +117,4 @@
 2018-04-04T08:16:00 - Implementing approach from a new paper read last night (onnxruntime)
 2018-04-04T08:42:00 - Late-night bugfix on financial RL environment (onnxruntime)
 2018-04-04T05:53:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (onnxruntime)
+2018-04-04T03:21:00 - Implementing approach from a new paper read last night (onnxruntime)
