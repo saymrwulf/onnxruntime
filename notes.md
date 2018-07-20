@@ -123,3 +123,4 @@
 2018-06-05T19:24:00 - Implementing approach from a new paper read last night (onnxruntime)
 2018-06-05T22:35:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (onnxruntime)
 2018-07-21T05:28:00 - Quick fix, referencing a known issue from the official repo (onnxruntime)
+2018-07-21T01:05:00 - Late-night bugfix on financial RL environment (onnxruntime)
