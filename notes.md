@@ -125,3 +125,4 @@
 2018-07-21T05:28:00 - Quick fix, referencing a known issue from the official repo (onnxruntime)
 2018-07-21T01:05:00 - Late-night bugfix on financial RL environment (onnxruntime)
 2018-07-21T17:50:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (onnxruntime)
+2018-07-21T19:00:00 - Quick fix, referencing a known issue from the official repo (onnxruntime)
