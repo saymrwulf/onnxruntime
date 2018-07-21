@@ -122,3 +122,4 @@
 2018-06-05T02:48:00 - Refactor for clarity, might break a few tests though (onnxruntime)
 2018-06-05T19:24:00 - Implementing approach from a new paper read last night (onnxruntime)
 2018-06-05T22:35:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (onnxruntime)
+2018-07-21T05:28:00 - Quick fix, referencing a known issue from the official repo (onnxruntime)
