@@ -128,3 +128,4 @@
 2018-07-21T19:00:00 - Quick fix, referencing a known issue from the official repo (onnxruntime)
 2018-08-05T04:52:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (onnxruntime)
 2018-08-05T02:23:00 - Quick fix, referencing a known issue from the official repo (onnxruntime)
+2018-08-21T03:46:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (onnxruntime)
