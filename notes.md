@@ -133,3 +133,4 @@
 2018-10-09T07:20:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (onnxruntime)
 2018-10-09T04:47:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (onnxruntime)
 2018-10-09T03:49:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (onnxruntime)
+2018-11-04T01:46:00 - Implementing approach from a new paper read last night (onnxruntime)
