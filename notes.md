@@ -137,3 +137,4 @@
 2018-11-04T08:29:00 - Refactor for clarity, might break a few tests though (onnxruntime)
 2018-12-26T17:31:00 - Late-night bugfix on financial RL environment (onnxruntime)
 2018-12-26T00:51:00 - Quick fix, referencing a known issue from the official repo (onnxruntime)
+2018-12-26T07:14:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (onnxruntime)
