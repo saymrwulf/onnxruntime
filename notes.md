@@ -139,3 +139,4 @@
 2018-12-26T00:51:00 - Quick fix, referencing a known issue from the official repo (onnxruntime)
 2018-12-26T07:14:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (onnxruntime)
 2018-12-26T23:14:00 - Quick fix, referencing a known issue from the official repo (onnxruntime)
+2019-01-19T02:22:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (onnxruntime)
