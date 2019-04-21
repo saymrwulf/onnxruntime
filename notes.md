@@ -146,3 +146,4 @@
 2019-03-17T21:45:00 - Implementing approach from a new paper read last night (onnxruntime)
 2019-03-17T05:34:00 - Late-night bugfix on financial RL environment (onnxruntime)
 2019-03-17T18:25:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (onnxruntime)
+2019-04-22T01:02:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (onnxruntime)
