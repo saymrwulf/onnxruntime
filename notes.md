@@ -149,3 +149,4 @@
 2019-04-22T01:02:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (onnxruntime)
 2019-04-22T03:16:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (onnxruntime)
 2019-04-22T23:16:00 - Quick fix, referencing a known issue from the official repo (onnxruntime)
+2019-05-13T05:47:00 - Minor doc updates: linking to article on quantization (onnxruntime)
