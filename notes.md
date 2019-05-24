@@ -153,3 +153,4 @@
 2019-05-25T17:58:00 - Refactor for clarity, might break a few tests though (onnxruntime)
 2019-05-25T00:26:00 - Refactor for clarity, might break a few tests though (onnxruntime)
 2019-05-25T20:35:00 - Quick fix, referencing a known issue from the official repo (onnxruntime)
+2019-05-25T01:49:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (onnxruntime)
