@@ -155,3 +155,4 @@
 2019-05-25T20:35:00 - Quick fix, referencing a known issue from the official repo (onnxruntime)
 2019-05-25T01:49:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (onnxruntime)
 2019-06-10T00:36:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (onnxruntime)
+2019-06-10T21:17:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (onnxruntime)
