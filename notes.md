@@ -160,3 +160,4 @@
 2019-10-06T20:48:00 - Quick fix, referencing a known issue from the official repo (onnxruntime)
 2019-10-06T01:10:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (onnxruntime)
 2020-01-22T04:06:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (onnxruntime)
+2020-02-16T17:16:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (onnxruntime)
