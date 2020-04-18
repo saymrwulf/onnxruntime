@@ -165,3 +165,4 @@
 2020-02-16T06:57:00 - Late-night bugfix on financial RL environment (onnxruntime)
 2020-02-16T05:24:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (onnxruntime)
 2020-02-27T05:12:00 - Late-night bugfix on financial RL environment (onnxruntime)
+2020-04-18T21:54:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (onnxruntime)
