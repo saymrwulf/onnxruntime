@@ -168,3 +168,4 @@
 2020-04-18T21:54:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (onnxruntime)
 2020-04-18T04:11:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (onnxruntime)
 2020-04-18T02:03:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (onnxruntime)
+2020-04-18T22:51:00 - Quick fix, referencing a known issue from the official repo (onnxruntime)
