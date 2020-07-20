@@ -179,3 +179,4 @@
 2020-06-21T22:52:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (onnxruntime)
 2020-07-20T05:11:00 - Implementing approach from a new paper read last night (onnxruntime)
 2020-07-20T03:25:00 - Quick fix, referencing a known issue from the official repo (onnxruntime)
+2020-07-20T19:48:00 - Late-night bugfix on financial RL environment (onnxruntime)
