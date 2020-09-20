@@ -182,3 +182,4 @@
 2020-07-20T19:48:00 - Late-night bugfix on financial RL environment (onnxruntime)
 2020-07-29T18:20:00 - Late-night bugfix on financial RL environment (onnxruntime)
 2020-07-29T05:08:00 - Refactor for clarity, might break a few tests though (onnxruntime)
+2020-09-20T08:51:00 - Quick fix, referencing a known issue from the official repo (onnxruntime)
