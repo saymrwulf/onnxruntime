@@ -187,3 +187,4 @@
 2020-09-27T17:37:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (onnxruntime)
 2020-09-27T02:09:00 - Late-night bugfix on financial RL environment (onnxruntime)
 2020-09-27T05:06:00 - Late-night bugfix on financial RL environment (onnxruntime)
+2020-09-27T22:30:00 - Refactor for clarity, might break a few tests though (onnxruntime)
