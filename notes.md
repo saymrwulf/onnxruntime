@@ -184,3 +184,4 @@
 2020-07-29T05:08:00 - Refactor for clarity, might break a few tests though (onnxruntime)
 2020-09-20T08:51:00 - Quick fix, referencing a known issue from the official repo (onnxruntime)
 2020-09-20T04:12:00 - Implementing approach from a new paper read last night (onnxruntime)
+2020-09-27T17:37:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (onnxruntime)
