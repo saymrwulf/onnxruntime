@@ -191,3 +191,4 @@
 2020-10-01T23:50:00 - Minor doc updates: linking to article on quantization (onnxruntime)
 2020-10-01T06:48:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (onnxruntime)
 2020-10-01T23:03:00 - Minor doc updates: linking to article on quantization (onnxruntime)
+2020-10-26T22:09:00 - Refactor for clarity, might break a few tests though (onnxruntime)
