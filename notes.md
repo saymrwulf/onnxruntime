@@ -193,3 +193,4 @@
 2020-10-01T23:03:00 - Minor doc updates: linking to article on quantization (onnxruntime)
 2020-10-26T22:09:00 - Refactor for clarity, might break a few tests though (onnxruntime)
 2020-10-26T19:03:00 - Late-night bugfix on financial RL environment (onnxruntime)
+2020-11-13T17:56:00 - Quick fix, referencing a known issue from the official repo (onnxruntime)
