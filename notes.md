@@ -196,3 +196,4 @@
 2020-11-13T17:56:00 - Quick fix, referencing a known issue from the official repo (onnxruntime)
 2020-11-22T07:55:00 - Implementing approach from a new paper read last night (onnxruntime)
 2020-11-22T20:23:00 - Quick fix, referencing a known issue from the official repo (onnxruntime)
+2020-11-22T17:25:00 - Implementing approach from a new paper read last night (onnxruntime)
