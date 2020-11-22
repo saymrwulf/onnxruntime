@@ -194,3 +194,4 @@
 2020-10-26T22:09:00 - Refactor for clarity, might break a few tests though (onnxruntime)
 2020-10-26T19:03:00 - Late-night bugfix on financial RL environment (onnxruntime)
 2020-11-13T17:56:00 - Quick fix, referencing a known issue from the official repo (onnxruntime)
+2020-11-22T07:55:00 - Implementing approach from a new paper read last night (onnxruntime)
