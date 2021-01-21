@@ -199,3 +199,4 @@
 2020-11-22T17:25:00 - Implementing approach from a new paper read last night (onnxruntime)
 2020-12-02T22:34:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (onnxruntime)
 2020-12-31T07:51:00 - Quick fix, referencing a known issue from the official repo (onnxruntime)
+2021-01-21T06:33:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (onnxruntime)
