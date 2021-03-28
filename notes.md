@@ -207,3 +207,4 @@
 2021-03-18T23:17:00 - Quick fix, referencing a known issue from the official repo (onnxruntime)
 2021-03-18T04:37:00 - Minor doc updates: linking to article on quantization (onnxruntime)
 2021-03-18T07:33:00 - Refactor for clarity, might break a few tests though (onnxruntime)
+2021-03-28T21:24:00 - Minor doc updates: linking to article on quantization (onnxruntime)
