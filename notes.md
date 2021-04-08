@@ -214,3 +214,4 @@
 2021-04-07T23:48:00 - Refactor for clarity, might break a few tests though (onnxruntime)
 2021-04-07T06:37:00 - Minor doc updates: linking to article on quantization (onnxruntime)
 2021-04-07T08:35:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (onnxruntime)
+2021-04-08T21:50:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (onnxruntime)
