@@ -228,3 +228,4 @@
 2021-08-20T06:07:00 - Quick fix, referencing a known issue from the official repo (onnxruntime)
 2021-08-20T02:30:00 - Quick fix, referencing a known issue from the official repo (onnxruntime)
 2021-08-20T01:06:00 - Implementing approach from a new paper read last night (onnxruntime)
+2021-08-24T06:32:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (onnxruntime)
