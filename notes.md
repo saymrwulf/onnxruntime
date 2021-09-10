@@ -230,3 +230,4 @@
 2021-08-20T01:06:00 - Implementing approach from a new paper read last night (onnxruntime)
 2021-08-24T06:32:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (onnxruntime)
 2021-08-24T00:47:00 - Late-night bugfix on financial RL environment (onnxruntime)
+2021-09-10T20:40:00 - Refactor for clarity, might break a few tests though (onnxruntime)
