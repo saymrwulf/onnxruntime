@@ -236,3 +236,4 @@
 2021-10-13T20:13:00 - Implementing approach from a new paper read last night (onnxruntime)
 2021-10-13T06:42:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (onnxruntime)
 2021-10-13T23:46:00 - Implementing approach from a new paper read last night (onnxruntime)
+2021-10-13T23:08:00 - Minor doc updates: linking to article on quantization (onnxruntime)
