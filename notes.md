@@ -244,3 +244,4 @@
 2022-03-19T08:57:00 - Minor doc updates: linking to article on quantization (onnxruntime)
 2022-03-19T04:24:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (onnxruntime)
 2022-03-31T22:07:00 - Quick fix, referencing a known issue from the official repo (onnxruntime)
+2022-03-31T23:58:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (onnxruntime)
