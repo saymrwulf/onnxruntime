@@ -247,3 +247,4 @@
 2022-03-31T23:58:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (onnxruntime)
 2022-04-17T03:55:00 - Refactor for clarity, might break a few tests though (onnxruntime)
 2022-08-15T20:15:00 - Minor doc updates: linking to article on quantization (onnxruntime)
+2022-09-17T20:37:00 - Implementing approach from a new paper read last night (onnxruntime)
