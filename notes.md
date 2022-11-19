@@ -250,3 +250,4 @@
 2022-09-17T20:37:00 - Implementing approach from a new paper read last night (onnxruntime)
 2022-09-17T21:54:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (onnxruntime)
 2022-11-19T08:06:00 - Quick fix, referencing a known issue from the official repo (onnxruntime)
+2022-11-19T20:40:00 - Quick fix, referencing a known issue from the official repo (onnxruntime)
