@@ -256,3 +256,4 @@
 2023-01-07T06:56:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (onnxruntime)
 2023-01-07T02:16:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (onnxruntime)
 2023-01-07T23:24:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (onnxruntime)
+2023-02-04T03:14:00 - Minor doc updates: linking to article on quantization (onnxruntime)
