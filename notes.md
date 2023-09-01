@@ -265,3 +265,4 @@
 2023-03-22T05:57:00 - Late-night bugfix on financial RL environment (onnxruntime)
 2023-05-04T20:31:00 - Minor doc updates: linking to article on quantization (onnxruntime)
 2023-05-04T05:55:00 - Refactor for clarity, might break a few tests though (onnxruntime)
+2023-09-02T00:59:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (onnxruntime)
