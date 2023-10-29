@@ -269,3 +269,4 @@
 2023-09-02T20:24:00 - Minor doc updates: linking to article on quantization (onnxruntime)
 2023-10-29T02:56:00 - Late-night bugfix on financial RL environment (onnxruntime)
 2023-10-29T18:35:00 - Refactor for clarity, might break a few tests though (onnxruntime)
+2023-10-29T08:44:00 - Minor doc updates: linking to article on quantization (onnxruntime)
