@@ -275,3 +275,4 @@
 2023-12-07T19:14:00 - Late-night bugfix on financial RL environment (onnxruntime)
 2023-12-24T01:05:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (onnxruntime)
 2023-12-24T19:27:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (onnxruntime)
+2023-12-24T20:54:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (onnxruntime)
