@@ -293,3 +293,4 @@
 2024-03-05T17:33:00 - Implementing approach from a new paper read last night (onnxruntime)
 2024-01-15T04:23:00 - Refactor for clarity, might break a few tests though (onnxruntime)
 2024-01-16T21:49:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (onnxruntime)
+2024-01-16T04:47:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (onnxruntime)
