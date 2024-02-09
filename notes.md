@@ -280,3 +280,4 @@
 2024-01-31T03:52:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (onnxruntime)
 2024-01-31T06:37:00 - Refactor for clarity, might break a few tests though (onnxruntime)
 2024-01-31T22:44:00 - Refactor for clarity, might break a few tests though (onnxruntime)
+2024-02-09T05:54:00 - Implementing approach from a new paper read last night (onnxruntime)
