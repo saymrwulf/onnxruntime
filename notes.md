@@ -298,3 +298,4 @@
 2024-03-06T00:14:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (onnxruntime)
 2024-03-06T22:56:00 - Quick fix, referencing a known issue from the official repo (onnxruntime)
 2024-03-06T17:59:00 - Quick fix, referencing a known issue from the official repo (onnxruntime)
+2024-03-21T07:40:00 - Minor doc updates: linking to article on quantization (onnxruntime)
