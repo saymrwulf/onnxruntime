@@ -309,3 +309,4 @@
 2024-07-04T19:19:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (onnxruntime)
 2024-07-04T08:12:00 - Implementing approach from a new paper read last night (onnxruntime)
 2024-08-02T22:57:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (onnxruntime)
+2024-08-02T03:18:00 - Implementing approach from a new paper read last night (onnxruntime)
