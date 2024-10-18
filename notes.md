@@ -320,3 +320,4 @@
 2024-09-16T23:08:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (onnxruntime)
 2024-09-16T21:05:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (onnxruntime)
 2024-10-02T23:02:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (onnxruntime)
+2024-10-18T04:33:00 - Minor doc updates: linking to article on quantization (onnxruntime)
