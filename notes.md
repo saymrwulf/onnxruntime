@@ -322,3 +322,4 @@
 2024-10-02T23:02:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (onnxruntime)
 2024-10-18T04:33:00 - Minor doc updates: linking to article on quantization (onnxruntime)
 2024-10-18T00:53:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (onnxruntime)
+2024-10-18T18:54:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (onnxruntime)
