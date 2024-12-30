@@ -328,3 +328,4 @@
 2024-12-26T00:34:00 - Quick fix, referencing a known issue from the official repo (onnxruntime)
 2024-12-26T22:27:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (onnxruntime)
 2024-12-30T20:34:00 - Implementing approach from a new paper read last night (onnxruntime)
+2024-12-30T05:49:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (onnxruntime)
