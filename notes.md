@@ -332,3 +332,4 @@
 2024-12-30T20:00:00 - Quick fix, referencing a known issue from the official repo (onnxruntime)
 2024-12-30T17:23:00 - Late-night bugfix on financial RL environment (onnxruntime)
 2025-01-27T17:02:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (onnxruntime)
+2025-01-27T00:32:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (onnxruntime)
