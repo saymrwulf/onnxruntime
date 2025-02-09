@@ -510,7 +510,7 @@ else()
   message("Setting pybind11_dep")
   set(pybind11_dep pybind11::pybind11)
 endif()
-  
+
 endif()
 onnxruntime_fetchcontent_declare(
   onnx
@@ -559,7 +559,7 @@ if (onnxruntime_USE_XNNPACK)
      find_library(xnnpack_LIBRARY NAMES XNNPACK)
      find_library(microkernels_prod_LIBRARY NAMES microkernels-prod)
      find_package(unofficial-pthreadpool CONFIG REQUIRED)
-     
+
      target_include_directories(xnnpack INTERFACE "${XNNPACK_HDR}")
      set(XNNPACK_INCLUDE_DIR ${XNNPACK_DIR}/include)
      set(onnxruntime_EXTERNAL_LIBRARIES_XNNPACK ${xnnpack_LIBRARY} ${microkernels_prod_LIBRARY} unofficial::pthreadpool unofficial::pthreadpool_interface)
@@ -657,20 +657,6 @@ if (onnxruntime_USE_WEBGPU)
 
   if (CMAKE_SYSTEM_NAME STREQUAL "Emscripten")
     set(DAWN_EMSCRIPTEN_TOOLCHAIN "${REPO_ROOT}/cmake/external/emsdk/upstream/emscripten" CACHE STRING "" FORCE)
-
-    # Add the missing files from the emsdk installation
-    #
-    # For a "standard" emscripten build, the folder "${DAWN_EMSCRIPTEN_TOOLCHAIN}/tools/maint/" is not used. This is the
-    # reason why EMSDK installation does not include it.
-    # However, currently the WebGPU support in Emscripten is still being developed and the Dawn project is maintaining
-    # a fork of the Emscripten toolchain. As an extra build step, Dawn needs to generate some files using the file
-    # "${DAWN_EMSCRIPTEN_TOOLCHAIN}/tools/maint/gen_struct_info.py" from emscripten, which is missing in the emscripten
-    # installed by emsdk.
-    #
-    # We keep a copy of the missing file(s) in ${PROJECT_SOURCE_DIR}/patches/emscripten/, and now we extract them to the
-    # emscripten toolchain folder.
-    execute_process(COMMAND ${CMAKE_COMMAND} -E tar x "${PROJECT_SOURCE_DIR}/patches/emscripten/patch_3.1.74.tgz"
-                    WORKING_DIRECTORY ${DAWN_EMSCRIPTEN_TOOLCHAIN})
   else()
     if (onnxruntime_BUILD_DAWN_MONOLITHIC_LIBRARY)
       set(DAWN_BUILD_MONOLITHIC_LIBRARY ON CACHE BOOL "" FORCE)
